@@ -21,8 +21,7 @@ enemycount=10
 
 # Creating a variable 'score' and initializing to 0
 score=0
-# Creating a variable 'over' and assign the value "False" to it
-over=False
+
 # Creating a font of type 'freesansbold.ttf' in size '15' and naming it 'score_font'
 score_font=pygame.font.Font('freesansbold.ttf', 15)
 
